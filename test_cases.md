@@ -1,6 +1,6 @@
 # Test Cases – Simulated Device Monitoring and Alert System
  
-Tested by: (Pabia, Mher Yelle Joyce B.)        Date: (date )
+Tested by: Pabia, Mher Yelle Joyce B.       Date: October 12, 2026
  
 | Test Case | Input or Action | Expected Result | Actual Result | Pass/Fail |
 |---|---|---|---|---|
